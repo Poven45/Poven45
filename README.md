@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poven45
-- 👀 I’m interested in ... web deb, software engineering, AI, game development and just about anything that involved coding
-- 🌱 I’m currently learning ... ruby on rails and front end development
+- 👀 I’m interested in ... web dev, software engineering, AI, game development and just about anything that involved coding
+- 🌱 I’m currently learning ... front end development
 - 💞️ I’m looking to collaborate on ... just about anything so I can get my feet wet with real life projects
 - 📫 How to reach me ... my email is povensangha45@gmail.com
 
